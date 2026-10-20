@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ayushveda](http://ayush-veda-final.vercel.app/)
 
-- 🌱 I’m currently learning **React,Django,Flask,Rest API and Angular**
+- 🌱 I’m currently learning **React,Django,Flask and Rest API **
 
 - 📫 How to reach me **pshemanth2@gmail.com**
 
